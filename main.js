@@ -424,5 +424,5 @@ switch(true){
         alert("Tendrías " + (valor / 285.00).toFixed(1) + " dólares.")
         break
     default:
-        alert("Los datos son incorrectos")
+        alert("Los datos son incorrectos.")
 }
